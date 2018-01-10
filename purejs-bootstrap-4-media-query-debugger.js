@@ -16,7 +16,7 @@ function showViewPortSize(display) {
 	};
 	//create the element
 	var viewportSize = document.createElement('div');
-	viewportSize.style.cssText = 'color:white;font-size:11px;z-index:9999;background:black;position:fixed;top:1px;left:5px;color:#fff;padding:10px;';
+	viewportSize.style.cssText = 'color:white;font-size:11px;z-index:9999;background:black;position:fixed;top:40px;left:5px;color:#fff;padding:10px;';
 	document.body.appendChild(viewportSize);
 	viewportSize.id = "viewportSize";
 	//add the innerHtml
