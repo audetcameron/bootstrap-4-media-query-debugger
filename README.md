@@ -1,6 +1,6 @@
 # javascript-bootstrap--media-query-debugger
 
-## Bootstrap 4 Media Query Breakpoints
+## Bootstrap 5 Media Query Breakpoints
 <br />
 X-Small	None	<576px <br />
 Small	sm	≥576px <br />
