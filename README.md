@@ -1,5 +1,10 @@
 # javascript-bootstrap--media-query-debugger
 
+<br /><br />
+![alt text](https://github.com/audetcameron/javascript-bootstrap-4-media-query-debugger/blob/master/pure-js-bootstrap-debugger.jpg)
+<br />
+
+
 ## Bootstrap 5 Media Query Breakpoints
 <br />
 X-Small	None	<576px <br />
@@ -8,6 +13,7 @@ Medium	md	≥768px <br />
 Large	lg	≥992px <br />
 Extra large	xl	≥1200px <br />
 Extra extra large	xxl	≥1400px <br />
+[bootstrap5 breakpoings](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
 
 ## Bootstrap 5 vanilla js
 ```
@@ -81,7 +87,8 @@ Extra large **≥1200px** <br />
 
 This little debugger lets you know which media query you are currently seeing.<br />
 Based on viewport.js [found here](https://gist.github.com/bohman/1351439#file-viewport-js)<br />
-### Included Jquery and Pure Java-script versions.
+
+### Included Jquery and Vanilla Java-script versions.
 <br />
 <br />
 
@@ -136,7 +143,7 @@ showViewPortSize(true);
 
 ```
 
-#### Pure Java-script version
+#### vanilla java-script version
 ```
 <script type="text/javascript">
   function showViewPortSize(display) {
@@ -194,7 +201,4 @@ showViewPortSize(true);
 </script>
 
 ```
-<br /><br />
-![alt text](https://github.com/audetcameron/javascript-bootstrap-4-media-query-debugger/blob/master/pure-js-bootstrap-debugger.jpg)
-<br />
 
